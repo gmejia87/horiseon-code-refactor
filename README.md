@@ -38,4 +38,4 @@ https://gmejia87.github.io/horiseon-code-refactor/
 ## Webpage screenshot
 
 ```
-![webpage ss](https://github.com/gmejia87/horiseon-code-refactor/blob/main/Horiseon%20webpage%20ss.png)
+![Horiseon webpage ss](https://user-images.githubusercontent.com/108241017/177867115-a7889a28-0755-4fb4-be68-874bbc76d564.png)
