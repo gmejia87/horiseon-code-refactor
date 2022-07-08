@@ -38,3 +38,8 @@ https://gmejia87.github.io/horiseon-code-refactor/
 ## Webpage screenshot
 
 ![Horiseon webpage ss](./Horiseon%20webpage%20ss.png)
+
+
+## Contribution 
+```
+Made with ❤️ Graciela Mejia
